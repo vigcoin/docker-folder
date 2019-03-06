@@ -1,0 +1,5 @@
+*.log
+.vigcoin
+*.rdb
+*.address
+*.wallet
